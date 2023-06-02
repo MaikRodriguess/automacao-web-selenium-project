@@ -3,6 +3,7 @@ Este é um projeto de automação web desenvolvido em Python para obter informa�
 
 Biblioteca Usada:
  * Selenium 
+ * Pandas
 
 #### Capturando cotações:  
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/MaikRodriguess/automacao_web_selenium/assets/69226200/b7987a18-44a9-4c72-bbaf-78fc623549a9)
