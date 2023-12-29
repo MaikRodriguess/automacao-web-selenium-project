@@ -12,4 +12,4 @@ Biblioteca Usada:
 
 <img width="472" alt="Captura de tela 2023-06-02 105408" src="https://github.com/MaikRodriguess/automacao_web_selenium/assets/69226200/6a82d12b-8137-46d1-8287-d1b03bb82e61">
 
- ## 📄 [Ver projeto aqui!](Arquivo Inicial - Aula 3.ipynb) 👈
+ ## 📄 [Ver projeto aqui!](https://github.com/MaikRodriguess/automacao_web_selenium/blob/main/Arquivo%20Inicial%20-%20Aula%203.ipynb) 👈
